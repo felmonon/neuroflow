@@ -1,6 +1,9 @@
 # NeuroFlow
 
 **The external prefrontal cortex ADHD brains need.**
+![NeuroFlow — ADHD-focused planner](preview.jpg)
+
+**[Live demo](https://neuroflow-gamma.vercel.app)**
 
 ---
 
